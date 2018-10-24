@@ -1,0 +1,78 @@
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/CortexM0/ARM_GCC_493/Debug/main.o : C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/ADC_SAR_Seq.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/ADC_SAR_Seq_IRQ.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/ADC_SAR_Seq_intClock.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/Bumper_L.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/Bumper_L_aliases.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/Bumper_R.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/Bumper_R_aliases.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/Clock_L.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/Clock_R.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/CyFlash.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/LCD_Char.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/LCD_Char_LCDPort.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/LCD_Char_LCDPort_aliases.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/POT_L.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/POT_L_aliases.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/POT_R.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/POT_R_aliases.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/PWM_L.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/PWM_OUT_L.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/PWM_OUT_L_aliases.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/PWM_OUT_R.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/PWM_OUT_R_aliases.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/PWM_R.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/core_cm0.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/core_cmFunc.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/core_cmInstr.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/cyPm.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/cydisabledsheets.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/cypins.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/project.h C:/Users/lenovo/Desktop/MiGong/Button.cydsn/main.c 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/ADC_SAR_Seq.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/ADC_SAR_Seq_IRQ.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/ADC_SAR_Seq_intClock.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/Bumper_L.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/Bumper_L_aliases.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/Bumper_R.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/Bumper_R_aliases.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/Clock_L.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/Clock_R.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/LCD_Char.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/LCD_Char_LCDPort.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/LCD_Char_LCDPort_aliases.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/POT_L.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/POT_L_aliases.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/POT_R.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/POT_R_aliases.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/PWM_L.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/PWM_OUT_L.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/PWM_OUT_L_aliases.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/PWM_OUT_R.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/PWM_OUT_R_aliases.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/PWM_R.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/core_cm0.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/core_cmFunc.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/core_cmInstr.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/Generated_Source/PSoC4/project.h : 
+
+C:/Users/lenovo/Desktop/MiGong/Button.cydsn/main.c : 
+

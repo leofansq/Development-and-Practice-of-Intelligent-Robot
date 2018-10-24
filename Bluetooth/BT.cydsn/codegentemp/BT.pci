@@ -1,0 +1,12 @@
+# BT
+# 2018-04-28 08:42:59Z
+
+# IO_2@[IOP=(3)][IoId=(2)] is reserved: SWDDebugEnabled
+dont_use_io iocell 3 2
+# IO_3@[IOP=(3)][IoId=(3)] is reserved: SWDDebugEnabled
+dont_use_io iocell 3 3
+set_location "ClockGenBlock" m0s8clockgenblockcell -1 -1 0
+set_io "\UART:tx(0)\" iocell 0 5
+set_io "\UART:rx(0)\" iocell 0 4
+set_io "PWM_OUT_R(0)" iocell 0 7
+set_io "PWM_OUT_L(0)" iocell 3 7

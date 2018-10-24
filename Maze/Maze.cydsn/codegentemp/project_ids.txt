@@ -1,0 +1,5 @@
+C:\Users\lenovo\Desktop\MiGong\Button.cydsn\Button.cyprj|5a1357a3-fd4a-43b0-937b-266037b1c4b0
+D:\Program File\PSOCCreator\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|001ba1ed-907b-4477-8ed9-602b8be82019
+D:\Program File\PSOCCreator\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|0efe66a2-0ed8-447f-aeed-a2d19c89d469
+D:\Program File\PSOCCreator\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|75e507d5-08e8-4a7f-a53d-2d4d4dc8c3fc
+D:\Program File\PSOCCreator\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|0dc1c383-fa91-40e6-bc47-80db9e6acde0

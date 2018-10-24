@@ -1,0 +1,94 @@
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/CortexM0/ARM_GCC_493/Debug/main.o : C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/ADC_SAR_Seq.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/ADC_SAR_Seq_IRQ.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/ADC_SAR_Seq_intClock.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/Clock.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/CyFlash.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/LCD_Char_1.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/LCD_Char_1_LCDPort.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/LCD_Char_1_LCDPort_aliases.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/PWM.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/PWM_1.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/PWM_OUT.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/PWM_OUT1.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/PWM_OUT1_aliases.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/PWM_OUT_aliases.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/Pin_1.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/Pin_1_aliases.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/Pin_2.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/Pin_2_aliases.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/Pin_3.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/Pin_3_aliases.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/UART.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/UART_BOOT.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/UART_PINS.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/UART_PVT.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/UART_rx.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/UART_tx.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/core_cm0.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/core_cmFunc.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/core_cmInstr.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cyPm.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cydisabledsheets.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cypins.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/project.h C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/main.c 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/ADC_SAR_Seq.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/ADC_SAR_Seq_IRQ.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/ADC_SAR_Seq_intClock.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/Clock.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/LCD_Char_1.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/LCD_Char_1_LCDPort.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/LCD_Char_1_LCDPort_aliases.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/PWM.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/PWM_1.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/PWM_OUT.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/PWM_OUT1.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/PWM_OUT1_aliases.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/PWM_OUT_aliases.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/Pin_1.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/Pin_1_aliases.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/Pin_2.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/Pin_2_aliases.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/Pin_3.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/Pin_3_aliases.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/UART.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/UART_BOOT.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/UART_PINS.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/UART_PVT.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/UART_rx.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/UART_tx.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/core_cm0.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/core_cmFunc.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/core_cmInstr.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/Generated_Source/PSoC4/project.h : 
+
+C:/Users/lenovo/Desktop/project/Workspace01/Design01.cydsn/main.c : 
+

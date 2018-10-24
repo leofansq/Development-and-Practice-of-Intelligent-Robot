@@ -1,0 +1,5 @@
+D:\Program File\PSOCCreator\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|32e7c140-7797-4895-a9c4-12eed8bd3411
+D:\Program File\PSOCCreator\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|6730cd4a-fd73-4cf9-b792-3e0a27064cfa
+D:\Program File\PSOCCreator\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|b79a345e-0fbb-4ec2-b3ac-01f3cbd86999
+D:\Program File\PSOCCreator\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|2591416c-66d5-48a2-b637-ac2a50354d15
+C:\Users\lenovo\Desktop\Workspace01\BT.cydsn\BT.cyprj|b5ddf772-b0dc-4b9d-b151-09b1ab74af9f
